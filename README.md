@@ -1,6 +1,6 @@
 # This is a course overview lecture for the Modern Programming for Data Analytics Course
 
-You can view this presentation at: [https://cmu-ms-das-modern-programming-mini.github.io/IntroToPython/](https://cmu-ms-das-modern-programming-mini.github.io/GitandGitHub/)
+You can view this presentation at: [https://cmu-ms-das-modern-programming-mini.github.io/GitandGitHub/](https://cmu-ms-das-modern-programming-mini.github.io/GitandGitHub/)
 The presentation is created with reveal.js
 
 ## reveal.js
