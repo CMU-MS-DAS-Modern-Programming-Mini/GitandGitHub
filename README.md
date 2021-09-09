@@ -5,6 +5,16 @@ The presentation is created with reveal.js
 
 The slides for the Git Lecture are provided by courtesy of Pierre Rioux at McGill Univesity
 
+## The Assignment
+
+1. Clone the ClassAssignment Repository
+2. You will need to create a new branch in the ClassAssignment Repo with the title <your last name>_slide
+3. Checkout that branch, and add your slide to the index.html
+4. Commit and push the change to your branch
+5. Create a pull request for your changes, and assign shots47s as the reviewer
+
+In class, we will see how to merge all of these branches into one big presentation
+
 ## reveal.js
 
 reveal.js is an open source HTML presentation framework. It enables anyone with a web browser to create fully featured and beautiful presentations for free. [Check out the live demo](https://revealjs.com/).
