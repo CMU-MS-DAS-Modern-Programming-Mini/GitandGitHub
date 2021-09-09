@@ -1,7 +1,9 @@
-# This is a course overview lecture for the Modern Programming for Data Analytics Course
+# This is a Git and GitHub lecture for the Modern Programming for Data Analytics Course
 
-You can view this presentation at: [https://cmu-ms-das-modern-programming-mini.github.io/IntroToPython/](https://cmu-ms-das-modern-programming-mini.github.io/GitandGitHub/)
+You can view this presentation at: [https://cmu-ms-das-modern-programming-mini.github.io/GitandGitHub/](https://cmu-ms-das-modern-programming-mini.github.io/GitandGitHub/)
 The presentation is created with reveal.js
+
+The slides for the Git Lecture are provided by courtesy of Pierre Rioux at McGill Univesity
 
 ## reveal.js
 
